@@ -5,6 +5,8 @@ Kelas : TI.21.A3
 Nim : 312110123
 
 Hasil nya : 
+![Screenshot (359)](https://github.com/Ranggaaditiya/Lab8_web/assets/127511355/5078ec55-57b1-4591-b513-bee61b148e86)
+
 
 ![Screenshot (345)](https://github.com/Ranggaaditiya/Lab7_web/assets/127511355/7c977dd3-b866-49c2-8fe1-712d5f6d8886)
 
