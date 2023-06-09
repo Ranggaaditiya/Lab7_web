@@ -15,6 +15,9 @@ Hasil nya :
 
 ![Screenshot (347)](https://github.com/Ranggaaditiya/Lab7_web/assets/127511355/245b2691-51c4-4efd-a1cf-9cda40d3e78b)
 
+![Screenshot (365)](https://github.com/Ranggaaditiya/Lab8_web/assets/127511355/71366d54-8963-4f5b-8c76-c9d61b6234c6)
+
+
 
 
 
